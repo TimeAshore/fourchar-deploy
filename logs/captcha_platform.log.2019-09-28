@@ -1,0 +1,283 @@
+2019-09-28 13:02:39,210 - coriander - INFO - Running on http://0.0.0.0:19951/ <Press CTRL + C to quit>
+2019-09-28 13:02:39,289 - coriander - INFO - TensorFlow Session tutorial-mix-CNN5BLSTM-200x60-H64_7000 Loaded.
+2019-09-28 13:02:39,289 - coriander - INFO - Inited a new model: tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60 (tutorial-mix-CNN5BLSTM-200x60-H64_model.yaml)
+2019-09-28 13:02:39,289 - coriander - WARNING - 
+-------------------------------------------------------------------
+- Found that the model_demo.yaml file exists, 
+- the loading is automatically ignored. 
+- If it is used for the first time, 
+- please copy it as a template. 
+- and do not use the reserved character "model_demo.yaml" as the file name.
+-------------------------------------------------------------------
+2019-09-28 13:02:39,289 - coriander - INFO - 
+ - Number of interfaces: 1
+ - Current online interface: 
+	 - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60]
+ - The default Interface is: tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60
+2019-09-28 13:04:39,095 - coriander - INFO - Running on http://0.0.0.0:19951/ <Press CTRL + C to quit>
+2019-09-28 13:04:39,175 - coriander - INFO - TensorFlow Session tutorial-mix-CNN5BLSTM-200x60-H64_7000 Loaded.
+2019-09-28 13:04:39,175 - coriander - INFO - Inited a new model: tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60 (tutorial-mix-CNN5BLSTM-200x60-H64_model.yaml)
+2019-09-28 13:04:39,176 - coriander - WARNING - 
+-------------------------------------------------------------------
+- Found that the model_demo.yaml file exists, 
+- the loading is automatically ignored. 
+- If it is used for the first time, 
+- please copy it as a template. 
+- and do not use the reserved character "model_demo.yaml" as the file name.
+-------------------------------------------------------------------
+2019-09-28 13:04:39,176 - coriander - INFO - 
+ - Number of interfaces: 1
+ - Current online interface: 
+	 - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60]
+ - The default Interface is: tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60
+2019-09-28 13:12:57,001 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 193.47405433654785 ms
+2019-09-28 13:13:38,444 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 13.70692253112793 ms
+2019-09-28 13:13:38,458 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 12.09259033203125 ms
+2019-09-28 13:13:38,473 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 12.441396713256836 ms
+2019-09-28 13:17:04,879 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 14.44864273071289 ms
+2019-09-28 13:17:04,895 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 12.853145599365234 ms
+2019-09-28 13:17:40,515 - coriander - ERROR - graph/tutorial-mix-CNN5BLSTM-200x60-H64_7000.pb not found, please put the trained model in the graph directory.
+2019-09-28 13:17:40,515 - coriander - INFO - Running on http://0.0.0.0:19951/ <Press CTRL + C to quit>
+2019-09-28 13:17:40,515 - coriander - WARNING - 
+-------------------------------------------------------------------
+- Found that the model_demo.yaml file exists, 
+- the loading is automatically ignored. 
+- If it is used for the first time, 
+- please copy it as a template. 
+- and do not use the reserved character "model_demo.yaml" as the file name.
+-------------------------------------------------------------------
+2019-09-28 13:17:40,516 - coriander - INFO - 
+ - Number of interfaces: 0
+ - There is currently no model deployment
+ - Services are not available
+[ Please check the graph and model path whether the pb file and yaml file are placed. ]
+2019-09-28 13:17:46,244 - coriander - INFO - There is currently no model deployment and services are not available.
+2019-09-28 13:17:51,197 - coriander - INFO - There is currently no model deployment and services are not available.
+2019-09-28 13:18:10,492 - coriander - INFO - Running on http://0.0.0.0:19951/ <Press CTRL + C to quit>
+2019-09-28 13:18:10,583 - coriander - INFO - TensorFlow Session tutorial-mix-CNN5BLSTM-200x60-H64_7000 Loaded.
+2019-09-28 13:18:10,583 - coriander - INFO - Inited a new model: tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60 (tutorial-mix-CNN5BLSTM-200x60-H64_model.yaml)
+2019-09-28 13:18:10,583 - coriander - WARNING - 
+-------------------------------------------------------------------
+- Found that the model_demo.yaml file exists, 
+- the loading is automatically ignored. 
+- If it is used for the first time, 
+- please copy it as a template. 
+- and do not use the reserved character "model_demo.yaml" as the file name.
+-------------------------------------------------------------------
+2019-09-28 13:18:10,583 - coriander - INFO - 
+ - Number of interfaces: 1
+ - Current online interface: 
+	 - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60]
+ - The default Interface is: tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60
+2019-09-28 13:18:11,378 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 192.24786758422852 ms
+2019-09-28 13:18:11,392 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 11.460542678833008 ms
+2019-09-28 13:18:37,019 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 14.896869659423828 ms
+2019-09-28 13:18:37,036 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 13.461828231811523 ms
+2019-09-28 13:18:40,282 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 11.263608932495117 ms
+2019-09-28 13:18:40,298 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 13.1072998046875 ms
+2019-09-28 13:18:40,311 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 10.327816009521484 ms
+2019-09-28 13:18:40,323 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.520458221435547 ms
+2019-09-28 13:18:40,335 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 9.792327880859375 ms
+2019-09-28 13:18:40,348 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 10.474681854248047 ms
+2019-09-28 13:18:40,361 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.598421096801758 ms
+2019-09-28 13:18:40,373 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 9.808063507080078 ms
+2019-09-28 13:18:40,386 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 10.516643524169922 ms
+2019-09-28 13:18:40,400 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 12.030839920043945 ms
+2019-09-28 13:18:44,580 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 12.986183166503906 ms
+2019-09-28 13:18:44,596 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 13.322114944458008 ms
+2019-09-28 13:18:44,613 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 14.261245727539062 ms
+2019-09-28 13:18:44,627 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 11.783838272094727 ms
+2019-09-28 13:18:44,640 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 11.058568954467773 ms
+2019-09-28 13:18:44,656 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 11.801719665527344 ms
+2019-09-28 13:18:44,670 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 11.247396469116211 ms
+2019-09-28 13:18:44,683 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 10.97249984741211 ms
+2019-09-28 13:18:44,697 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 11.029243469238281 ms
+2019-09-28 13:18:44,710 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 11.457204818725586 ms
+2019-09-28 17:02:25,574 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 11.070728302001953 ms
+2019-09-28 17:02:25,600 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 23.25606346130371 ms
+2019-09-28 17:02:25,612 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 9.878873825073242 ms
+2019-09-28 17:02:25,625 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.071277618408203 ms
+2019-09-28 17:02:25,637 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.065317153930664 ms
+2019-09-28 17:02:25,649 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 10.32876968383789 ms
+2019-09-28 17:02:25,661 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 9.730339050292969 ms
+2019-09-28 17:02:25,674 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 10.120630264282227 ms
+2019-09-28 17:02:25,686 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 10.223388671875 ms
+2019-09-28 17:02:25,698 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 9.644269943237305 ms
+2019-09-28 17:02:27,368 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 12.208700180053711 ms
+2019-09-28 17:02:27,382 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 11.815309524536133 ms
+2019-09-28 17:02:27,395 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 10.7574462890625 ms
+2019-09-28 17:02:27,409 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 11.009454727172852 ms
+2019-09-28 17:02:27,422 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.905027389526367 ms
+2019-09-28 17:02:27,434 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 10.19740104675293 ms
+2019-09-28 17:02:27,447 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.22648811340332 ms
+2019-09-28 17:02:27,460 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 10.068178176879883 ms
+2019-09-28 17:02:27,473 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 11.114120483398438 ms
+2019-09-28 17:02:27,486 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 10.580301284790039 ms
+2019-09-28 17:09:56,139 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 10.970830917358398 ms
+2019-09-28 17:09:56,153 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.888338088989258 ms
+2019-09-28 17:10:15,159 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 12.787103652954102 ms
+2019-09-28 17:10:15,172 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.581493377685547 ms
+2019-09-28 17:10:15,185 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 10.714292526245117 ms
+2019-09-28 17:10:15,198 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.5133056640625 ms
+2019-09-28 17:10:15,211 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.210275650024414 ms
+2019-09-28 17:10:15,224 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 10.327577590942383 ms
+2019-09-28 17:10:15,236 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.207414627075195 ms
+2019-09-28 17:10:15,248 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 9.916543960571289 ms
+2019-09-28 17:10:15,262 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 11.021137237548828 ms
+2019-09-28 17:10:15,276 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 11.976242065429688 ms
+2019-09-28 17:10:22,830 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 10.181188583374023 ms
+2019-09-28 17:10:22,843 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.198831558227539 ms
+2019-09-28 17:10:22,856 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 11.363983154296875 ms
+2019-09-28 17:10:22,869 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.082721710205078 ms
+2019-09-28 17:10:22,881 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.110139846801758 ms
+2019-09-28 17:10:22,893 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 10.00523567199707 ms
+2019-09-28 17:10:22,906 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.698795318603516 ms
+2019-09-28 17:10:22,919 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 10.267972946166992 ms
+2019-09-28 17:10:22,932 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 11.005640029907227 ms
+2019-09-28 17:10:22,948 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 13.615846633911133 ms
+2019-09-28 17:10:44,570 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 12.867450714111328 ms
+2019-09-28 17:10:44,582 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 9.973764419555664 ms
+2019-09-28 17:10:44,596 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 10.930061340332031 ms
+2019-09-28 17:10:44,609 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.362386703491211 ms
+2019-09-28 17:10:44,622 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 11.110067367553711 ms
+2019-09-28 17:10:44,637 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 12.12930679321289 ms
+2019-09-28 17:10:44,654 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 14.760971069335938 ms
+2019-09-28 17:10:44,669 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 12.351751327514648 ms
+2019-09-28 17:10:44,684 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 13.109922409057617 ms
+2019-09-28 17:10:44,706 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 19.33908462524414 ms
+2019-09-28 17:16:06,644 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 11.05809211730957 ms
+2019-09-28 17:16:06,658 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 12.069940567016602 ms
+2019-09-28 17:16:06,671 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 9.923219680786133 ms
+2019-09-28 17:16:06,683 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 9.76872444152832 ms
+2019-09-28 17:16:06,695 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.408163070678711 ms
+2019-09-28 17:16:06,708 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 10.354042053222656 ms
+2019-09-28 17:16:06,722 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 11.222124099731445 ms
+2019-09-28 17:16:06,735 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 11.239290237426758 ms
+2019-09-28 17:16:06,748 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 10.18834114074707 ms
+2019-09-28 17:16:06,760 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 10.292530059814453 ms
+2019-09-28 17:17:04,661 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 10.977506637573242 ms
+2019-09-28 17:17:04,675 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.812044143676758 ms
+2019-09-28 17:17:04,688 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 11.044740676879883 ms
+2019-09-28 17:17:04,702 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 11.486530303955078 ms
+2019-09-28 17:17:04,715 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 11.170148849487305 ms
+2019-09-28 17:17:04,730 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 11.800050735473633 ms
+2019-09-28 17:17:04,744 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 12.353897094726562 ms
+2019-09-28 17:17:04,759 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 12.459278106689453 ms
+2019-09-28 17:17:04,774 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 12.602806091308594 ms
+2019-09-28 17:17:04,789 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 12.469053268432617 ms
+2019-09-28 17:17:33,803 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 12.73345947265625 ms
+2019-09-28 17:17:33,816 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.657310485839844 ms
+2019-09-28 17:17:33,828 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 9.959220886230469 ms
+2019-09-28 17:17:33,840 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.066032409667969 ms
+2019-09-28 17:17:33,853 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.317325592041016 ms
+2019-09-28 17:17:33,866 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 10.314702987670898 ms
+2019-09-28 17:17:33,878 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 9.788990020751953 ms
+2019-09-28 17:17:33,890 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 10.248422622680664 ms
+2019-09-28 17:17:33,903 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 10.663747787475586 ms
+2019-09-28 17:17:33,917 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 11.381387710571289 ms
+2019-09-28 17:17:38,732 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 13.578414916992188 ms
+2019-09-28 17:17:38,748 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 12.737274169921875 ms
+2019-09-28 17:17:38,763 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 12.034177780151367 ms
+2019-09-28 17:17:38,777 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 11.21211051940918 ms
+2019-09-28 17:17:38,790 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 11.281728744506836 ms
+2019-09-28 17:17:38,805 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 11.659860610961914 ms
+2019-09-28 17:17:38,819 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 11.821508407592773 ms
+2019-09-28 17:17:38,832 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 11.271238327026367 ms
+2019-09-28 17:17:38,846 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 11.444807052612305 ms
+2019-09-28 17:17:38,862 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 13.478994369506836 ms
+2019-09-28 17:18:05,427 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 10.765790939331055 ms
+2019-09-28 17:18:05,440 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 11.225223541259766 ms
+2019-09-28 17:18:05,453 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 10.195016860961914 ms
+2019-09-28 17:18:05,466 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.598421096801758 ms
+2019-09-28 17:18:05,478 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 9.703397750854492 ms
+2019-09-28 17:18:05,490 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 10.18524169921875 ms
+2019-09-28 17:18:05,504 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 11.081218719482422 ms
+2019-09-28 17:18:05,517 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 10.470867156982422 ms
+2019-09-28 17:18:05,529 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 10.362863540649414 ms
+2019-09-28 17:18:05,542 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 10.364770889282227 ms
+2019-09-28 17:18:20,890 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 12.249231338500977 ms
+2019-09-28 17:18:20,908 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 14.818429946899414 ms
+2019-09-28 17:18:20,922 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 11.642932891845703 ms
+2019-09-28 17:18:20,937 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 12.249946594238281 ms
+2019-09-28 17:18:20,965 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 26.314735412597656 ms
+2019-09-28 17:18:20,980 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 11.642694473266602 ms
+2019-09-28 17:18:20,993 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.875225067138672 ms
+2019-09-28 17:18:21,007 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 12.281656265258789 ms
+2019-09-28 17:18:21,020 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 10.577917098999023 ms
+2019-09-28 17:18:21,033 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 10.513782501220703 ms
+2019-09-28 17:18:41,360 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 11.77835464477539 ms
+2019-09-28 17:18:41,373 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.286092758178711 ms
+2019-09-28 17:18:41,388 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 12.220621109008789 ms
+2019-09-28 17:18:41,401 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.43701171875 ms
+2019-09-28 17:18:41,413 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.27059555053711 ms
+2019-09-28 17:18:41,425 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 9.665966033935547 ms
+2019-09-28 17:18:41,438 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.291099548339844 ms
+2019-09-28 17:18:41,451 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 10.03122329711914 ms
+2019-09-28 17:18:41,465 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 12.475013732910156 ms
+2019-09-28 17:18:41,478 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 10.699987411499023 ms
+2019-09-28 17:18:47,095 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 10.927677154541016 ms
+2019-09-28 17:18:47,108 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 9.757280349731445 ms
+2019-09-28 17:18:47,120 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 10.185718536376953 ms
+2019-09-28 17:18:47,133 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.829925537109375 ms
+2019-09-28 17:18:47,146 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 9.982109069824219 ms
+2019-09-28 17:18:47,158 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 9.861230850219727 ms
+2019-09-28 17:18:47,171 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.809898376464844 ms
+2019-09-28 17:18:47,184 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 10.734796524047852 ms
+2019-09-28 17:18:47,198 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 11.661767959594727 ms
+2019-09-28 17:18:47,212 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 11.485576629638672 ms
+2019-09-28 17:18:56,291 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 12.40682601928711 ms
+2019-09-28 17:18:56,305 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.735511779785156 ms
+2019-09-28 17:18:56,318 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 11.247396469116211 ms
+2019-09-28 17:18:56,332 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 11.005878448486328 ms
+2019-09-28 17:18:56,346 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 11.980056762695312 ms
+2019-09-28 17:18:56,360 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 11.108875274658203 ms
+2019-09-28 17:18:56,374 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 11.275529861450195 ms
+2019-09-28 17:18:56,388 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 11.555194854736328 ms
+2019-09-28 17:18:56,403 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 12.595653533935547 ms
+2019-09-28 17:18:56,420 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 14.862775802612305 ms
+2019-09-28 17:19:12,925 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 12.517452239990234 ms
+2019-09-28 17:19:12,939 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.971307754516602 ms
+2019-09-28 17:19:12,952 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 10.426521301269531 ms
+2019-09-28 17:19:12,965 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.392189025878906 ms
+2019-09-28 17:19:12,978 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.940074920654297 ms
+2019-09-28 17:19:12,990 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 9.925127029418945 ms
+2019-09-28 17:19:13,003 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.495662689208984 ms
+2019-09-28 17:19:13,017 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 11.206626892089844 ms
+2019-09-28 17:19:13,034 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 14.582633972167969 ms
+2019-09-28 17:19:13,047 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 11.22426986694336 ms
+2019-09-28 17:19:32,523 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 12.633085250854492 ms
+2019-09-28 17:19:32,536 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.77580451965332 ms
+2019-09-28 17:19:32,549 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 10.649442672729492 ms
+2019-09-28 17:19:32,564 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 12.244224548339844 ms
+2019-09-28 17:19:32,577 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.304689407348633 ms
+2019-09-28 17:19:32,591 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 11.678218841552734 ms
+2019-09-28 17:19:32,604 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.207891464233398 ms
+2019-09-28 17:19:32,616 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 10.087251663208008 ms
+2019-09-28 17:19:32,629 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 10.431766510009766 ms
+2019-09-28 17:19:32,642 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 10.723352432250977 ms
+2019-09-28 17:19:38,601 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[5567] - 14.977216720581055 ms
+2019-09-28 17:19:38,614 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xj9b] - 10.54835319519043 ms
+2019-09-28 17:19:38,627 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[xp7] - 10.922431945800781 ms
+2019-09-28 17:19:38,640 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[748] - 10.01739501953125 ms
+2019-09-28 17:19:38,652 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[u6e4] - 10.097980499267578 ms
+2019-09-28 17:19:38,665 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[38l] - 9.912729263305664 ms
+2019-09-28 17:19:38,678 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[j544] - 10.680913925170898 ms
+2019-09-28 17:19:38,690 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[y73x] - 9.809732437133789 ms
+2019-09-28 17:19:38,702 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[a7eq] - 10.176897048950195 ms
+2019-09-28 17:19:38,715 - coriander - INFO - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60] - Size[200x60] - Type[None] - Site[None] - Predict Result[f4zl] - 10.114192962646484 ms
+2019-09-28 17:20:01,535 - coriander - INFO - Running on http://0.0.0.0:19951/ <Press CTRL + C to quit>
+2019-09-28 17:20:01,617 - coriander - INFO - TensorFlow Session tutorial-mix-CNN5BLSTM-200x60-H64_7000 Loaded.
+2019-09-28 17:20:01,618 - coriander - INFO - Inited a new model: tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60 (tutorial-mix-CNN5BLSTM-200x60-H64_model.yaml)
+2019-09-28 17:20:01,618 - coriander - WARNING - 
+-------------------------------------------------------------------
+- Found that the model_demo.yaml file exists, 
+- the loading is automatically ignored. 
+- If it is used for the first time, 
+- please copy it as a template. 
+- and do not use the reserved character "model_demo.yaml" as the file name.
+-------------------------------------------------------------------
+2019-09-28 17:20:01,618 - coriander - INFO - 
+ - Number of interfaces: 1
+ - Current online interface: 
+	 - [tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60]
+ - The default Interface is: tutorial-mix-CNN5BLSTM-200x60-H64_7000&200x60
